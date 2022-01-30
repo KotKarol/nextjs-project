@@ -1,5 +1,5 @@
 export async function getAllSalonsData() {
-  const blob = await import("./salons.json");
+  const blob = await import("./salons-blob.json");
 
   const salonsData = blob.default.map(({ company, id }) => {
     return { company, id };
@@ -9,7 +9,7 @@ export async function getAllSalonsData() {
 }
 
 export async function getAllSalonsIds() {
-  const blob = await import("./salons.json");
+  const blob = await import("./salons-blob.json");
 
   const ids = blob.default.map(({ id }) => {
     return {
@@ -22,6 +22,6 @@ export async function getAllSalonsIds() {
 }
 
 export async function getSalonData(id) {
-  const blob = await import("./salons.json");
+  const blob = await import("./salons-blob.json");
   return blob.default.find((x) => x.id === id);
 }
