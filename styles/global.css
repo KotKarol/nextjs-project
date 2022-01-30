@@ -1,0 +1,30 @@
+@font-face {
+  font-family: "MillerBanner";
+  src: url("/fonts/Font-Bureau-MillerBanner-Light.otf");
+  font-style: normal;
+  font-weight: 400;
+  font-display: auto;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: MillerBanner, sans-serif;
+  line-height: 1.6;
+  font-size: 18px;
+  background-color: #fff;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
