@@ -1,303 +1,443 @@
 [
   {
-    "id": "61f71d0cbda4616c44c5b942",
-    "rating": 1,
-    "ratingCount": 8796,
-    "picture": "http://placehold.it/32x32",
-    "price": 223,
-    "openHours": [
-      {
-        "from": 11,
-        "to": 17
-      },
-      {
-        "from": 8,
-        "to": 20
-      },
-      {
-        "from": 11,
-        "to": 17
-      },
-      {
-        "from": 9,
-        "to": 17
-      },
-      {
-        "from": 9,
-        "to": 17
-      },
-      {
-        "from": 10,
-        "to": 18
-      },
-      {
-        "from": 11,
-        "to": 20
-      }
-    ],
-    "nextAvailableHour": "13.00",
-    "company": "Squish",
-    "address": {
-      "city": "Shindler",
-      "postalCode": "31-972",
-      "street": "Bank Street 2858",
-      "time": 27
-    },
-    "url": "www.some-site.com",
-    "phone": "+48 (965) 548-2118",
-    "about": "Eu labore dolore sit esse. Tempor aute laboris ex nisi quis velit sunt aute non. Anim eu aute consequat consectetur duis incididunt nostrud id eiusmod ad eu veniam.\r\n"
-  },
-  {
-    "id": "61f71d0c129ff85ddd758a94",
-    "rating": 0,
-    "ratingCount": 3786,
-    "picture": "http://placehold.it/32x32",
-    "price": 308,
-    "openHours": [
-      {
-        "from": 9,
-        "to": 18
-      },
-      {
-        "from": 10,
-        "to": 19
-      },
-      {
-        "from": 10,
-        "to": 17
-      },
-      {
-        "from": 11,
-        "to": 20
-      },
-      {
-        "from": 9,
-        "to": 17
-      },
-      {
-        "from": 10,
-        "to": 19
-      },
-      {
-        "from": 9,
-        "to": 20
-      }
-    ],
-    "nextAvailableHour": "12.15",
-    "company": "Ginkogene",
-    "address": {
-      "city": "Brogan",
-      "postalCode": "13-516",
-      "street": "Elliott Place 7593",
-      "time": 38
-    },
-    "url": "www.some-site.com",
-    "phone": "+48 (882) 553-2734",
-    "about": "Ex in esse ad quis amet consectetur aliquip qui consectetur sunt est laborum. Ea occaecat enim excepteur sit amet minim ex cupidatat. Laboris non ea aute reprehenderit reprehenderit amet adipisicing.\r\n"
-  },
-  {
-    "id": "61f71d0c5493b4cae6d1bd44",
+    "id": "61f7b8a65d012a3af98374fa",
     "rating": 2,
-    "ratingCount": 6332,
+    "ratingCount": 446,
     "picture": "http://placehold.it/32x32",
-    "price": 245,
+    "price": 575,
     "openHours": [
       {
-        "from": 8,
-        "to": 20
+        "from": 10,
+        "to": 17
       },
       {
-        "from": 11,
+        "from": 8,
+        "to": 18
+      },
+      {
+        "from": 10,
         "to": 17
       },
       {
         "from": 11,
-        "to": 19
-      },
-      {
-        "from": 9,
-        "to": 20
-      },
-      {
-        "from": 11,
         "to": 17
-      },
-      {
-        "from": 11,
-        "to": 18
-      },
-      {
-        "from": 9,
-        "to": 18
-      }
-    ],
-    "nextAvailableHour": "12.30",
-    "company": "Applidec",
-    "address": {
-      "city": "Urie",
-      "postalCode": "35-926",
-      "street": "Robert Street 3252",
-      "time": 35
-    },
-    "url": "www.some-site.com",
-    "phone": "+48 (936) 404-2939",
-    "about": "Eiusmod commodo Lorem eu occaecat labore sint esse eiusmod nulla laborum cupidatat mollit do nostrud. Ad ea sunt fugiat nostrud excepteur. Pariatur velit est magna officia consectetur nulla fugiat incididunt Lorem excepteur exercitation.\r\n"
-  },
-  {
-    "id": "61f71d0c67c6bad83ac03599",
-    "rating": 0,
-    "ratingCount": 4647,
-    "picture": "http://placehold.it/32x32",
-    "price": 197,
-    "openHours": [
-      {
-        "from": 8,
-        "to": 19
-      },
-      {
-        "from": 9,
-        "to": 20
-      },
-      {
-        "from": 10,
-        "to": 20
-      },
-      {
-        "from": 8,
-        "to": 20
-      },
-      {
-        "from": 10,
-        "to": 20
-      },
-      {
-        "from": 11,
-        "to": 20
-      },
-      {
-        "from": 10,
-        "to": 18
-      }
-    ],
-    "nextAvailableHour": "12.45",
-    "company": "Bolax",
-    "address": {
-      "city": "Klagetoh",
-      "postalCode": "75-886",
-      "street": "Hart Place 2635",
-      "time": 15
-    },
-    "url": "www.some-site.com",
-    "phone": "+48 (990) 459-3980",
-    "about": "Do eu sint consectetur eiusmod. Reprehenderit tempor mollit aliquip ex veniam nulla anim sunt eu laborum fugiat. Cillum pariatur eiusmod occaecat cillum enim eu culpa. Officia occaecat in nulla dolore enim velit ullamco eiusmod. Irure velit elit dolor reprehenderit duis deserunt amet esse adipisicing exercitation aute in. Magna sint excepteur cillum Lorem sunt elit do deserunt adipisicing eiusmod ut aute. Voluptate magna ipsum nisi magna et cupidatat do occaecat irure velit mollit pariatur.\r\n"
-  },
-  {
-    "id": "61f71d0c6cdba6ae0281adc1",
-    "rating": 4,
-    "ratingCount": 6000,
-    "picture": "http://placehold.it/32x32",
-    "price": 471,
-    "openHours": [
-      {
-        "from": 11,
-        "to": 20
-      },
-      {
-        "from": 8,
-        "to": 18
       },
       {
         "from": 9,
         "to": 19
       },
       {
-        "from": 8,
-        "to": 17
-      },
-      {
-        "from": 8,
-        "to": 20
-      },
-      {
         "from": 11,
-        "to": 20
-      },
-      {
-        "from": 9,
         "to": 17
-      }
-    ],
-    "nextAvailableHour": "13.30",
-    "company": "Corporana",
-    "address": {
-      "city": "Edgar",
-      "postalCode": "30-371",
-      "street": "Glen Street 1032",
-      "time": 29
-    },
-    "url": "www.some-site.com",
-    "phone": "+48 (848) 427-3695",
-    "about": "Dolore anim et mollit proident consectetur amet officia labore duis sint. Id magna aliquip tempor esse nostrud ad aliqua do irure proident deserunt commodo labore cupidatat. Officia anim eiusmod esse nulla aliqua nostrud dolore. Sint est eiusmod pariatur in do. Incididunt ipsum anim dolore excepteur qui Lorem et commodo consectetur enim in cupidatat veniam amet. Officia consectetur minim veniam do ut. Ipsum labore aliquip ea proident commodo dolor fugiat sint dolor ex culpa exercitation id amet.\r\n"
-  },
-  {
-    "id": "61f71d0c782fd15fbc2bee70",
-    "rating": 4,
-    "ratingCount": 1103,
-    "picture": "http://placehold.it/32x32",
-    "price": 497,
-    "openHours": [
+      },
       {
         "from": 10,
-        "to": 20
-      },
-      {
-        "from": 8,
-        "to": 18
-      },
-      {
-        "from": 11,
-        "to": 17
-      },
-      {
-        "from": 11,
-        "to": 19
-      },
-      {
-        "from": 9,
-        "to": 20
-      },
-      {
-        "from": 8,
-        "to": 20
-      },
-      {
-        "from": 8,
         "to": 18
       }
     ],
     "nextAvailableHour": "12.00",
-    "company": "Sustenza",
+    "company": "Parleynet",
     "address": {
-      "city": "Northridge",
-      "postalCode": "83-629",
-      "street": "Box Street 652",
-      "time": 29
+      "city": "Hall",
+      "postalCode": "52-192",
+      "street": "Eldert Street 4823",
+      "time": 9
     },
     "url": "www.some-site.com",
-    "phone": "+48 (978) 524-2406",
-    "about": "Magna do adipisicing eiusmod minim voluptate commodo ut occaecat. Voluptate ullamco amet eiusmod voluptate irure in fugiat. Ad ut aute ut laboris proident ea elit cillum anim. Consequat aliqua in velit ex ut dolore dolore magna. Ullamco in consectetur cupidatat est officia excepteur. Fugiat duis labore do exercitation mollit dolor ipsum et.\r\n"
+    "phone": "+48 (846) 461-3851",
+    "about": "Duis dolore sunt dolor anim quis fugiat fugiat incididunt reprehenderit. Dolor minim laborum aute qui exercitation enim. Anim duis exercitation do magna sint. Id magna nulla adipisicing velit incididunt reprehenderit eiusmod ea quis reprehenderit aliquip magna. Velit sit eiusmod sit ex qui aliquip deserunt anim. Qui ea et nostrud ipsum proident et. Aute sunt officia cupidatat tempor id non consectetur irure proident duis minim pariatur.\r\n"
   },
   {
-    "id": "61f71d0c93f44b6df2ef405d",
+    "id": "61f7b8a63f8247005fb79121",
     "rating": 0,
-    "ratingCount": 1145,
+    "ratingCount": 2380,
     "picture": "http://placehold.it/32x32",
-    "price": 170,
+    "price": 851,
+    "openHours": [
+      {
+        "from": 11,
+        "to": 17
+      },
+      {
+        "from": 10,
+        "to": 18
+      },
+      {
+        "from": 10,
+        "to": 17
+      },
+      {
+        "from": 10,
+        "to": 20
+      },
+      {
+        "from": 9,
+        "to": 19
+      },
+      {
+        "from": 9,
+        "to": 17
+      },
+      {
+        "from": 9,
+        "to": 17
+      }
+    ],
+    "nextAvailableHour": "12.00",
+    "company": "Viasia",
+    "address": {
+      "city": "Joes",
+      "postalCode": "34-296",
+      "street": "Vernon Avenue 7835",
+      "time": 24
+    },
+    "url": "www.some-site.com",
+    "phone": "+48 (994) 414-3532",
+    "about": "Aliqua proident voluptate reprehenderit exercitation duis minim sit excepteur est sunt tempor pariatur. Lorem ad eiusmod anim reprehenderit occaecat commodo cupidatat proident duis. Deserunt aliquip veniam anim adipisicing in officia ex velit eu amet mollit fugiat sint fugiat. Dolor laboris magna et ullamco laborum Lorem ullamco sint aliqua labore.\r\n"
+  },
+  {
+    "id": "61f7b8a64acdd7f9e3e0d2cb",
+    "rating": 1,
+    "ratingCount": 2307,
+    "picture": "http://placehold.it/32x32",
+    "price": 537,
     "openHours": [
       {
         "from": 8,
         "to": 20
       },
+      {
+        "from": 8,
+        "to": 18
+      },
+      {
+        "from": 10,
+        "to": 18
+      },
+      {
+        "from": 8,
+        "to": 18
+      },
+      {
+        "from": 10,
+        "to": 19
+      },
+      {
+        "from": 8,
+        "to": 20
+      },
+      {
+        "from": 9,
+        "to": 19
+      }
+    ],
+    "nextAvailableHour": "13.00",
+    "company": "Bristo",
+    "address": {
+      "city": "Camino",
+      "postalCode": "8-593",
+      "street": "Quentin Street 7510",
+      "time": 28
+    },
+    "url": "www.some-site.com",
+    "phone": "+48 (872) 575-2262",
+    "about": "Aute sint Lorem esse officia nisi Lorem nostrud minim ea excepteur deserunt ullamco. Commodo est qui aliquip ad in in proident. Id ut aliquip culpa labore sunt exercitation ipsum. Do ullamco incididunt tempor ea consequat incididunt do ex aliqua velit. Ullamco esse commodo elit anim duis anim amet excepteur quis ipsum ullamco ut magna laboris. Aliqua excepteur eiusmod excepteur ut laborum sint aute amet esse.\r\n"
+  },
+  {
+    "id": "61f7b8a6069473c15cec025a",
+    "rating": 1,
+    "ratingCount": 536,
+    "picture": "http://placehold.it/32x32",
+    "price": 700,
+    "openHours": [
+      {
+        "from": 9,
+        "to": 19
+      },
+      {
+        "from": 10,
+        "to": 20
+      },
+      {
+        "from": 8,
+        "to": 19
+      },
+      {
+        "from": 10,
+        "to": 18
+      },
+      {
+        "from": 11,
+        "to": 20
+      },
+      {
+        "from": 9,
+        "to": 20
+      },
+      {
+        "from": 11,
+        "to": 17
+      }
+    ],
+    "nextAvailableHour": "12.15",
+    "company": "Insurity",
+    "address": {
+      "city": "Martell",
+      "postalCode": "15-658",
+      "street": "Heyward Street 2681",
+      "time": 19
+    },
+    "url": "www.some-site.com",
+    "phone": "+48 (855) 439-2168",
+    "about": "Deserunt ipsum consectetur excepteur commodo aliqua sit ullamco sit ut sit. Ad laboris amet adipisicing eu deserunt esse aute magna nulla ullamco mollit. Exercitation eiusmod nisi ad deserunt laboris non laborum laboris ullamco. Consectetur proident officia do veniam pariatur nulla nulla aliqua. Pariatur laborum occaecat aliquip velit et velit nulla fugiat.\r\n"
+  },
+  {
+    "id": "61f7b8a6391c970de3778907",
+    "rating": 3,
+    "ratingCount": 6630,
+    "picture": "http://placehold.it/32x32",
+    "price": 187,
+    "openHours": [
+      {
+        "from": 10,
+        "to": 18
+      },
+      {
+        "from": 8,
+        "to": 19
+      },
+      {
+        "from": 8,
+        "to": 18
+      },
+      {
+        "from": 8,
+        "to": 18
+      },
+      {
+        "from": 8,
+        "to": 17
+      },
+      {
+        "from": 10,
+        "to": 17
+      },
+      {
+        "from": 8,
+        "to": 19
+      }
+    ],
+    "nextAvailableHour": "12.15",
+    "company": "Entality",
+    "address": {
+      "city": "Boling",
+      "postalCode": "8-763",
+      "street": "Wakeman Place 9981",
+      "time": 20
+    },
+    "url": "www.some-site.com",
+    "phone": "+48 (839) 526-3855",
+    "about": "Nulla cupidatat commodo nulla dolore duis dolore amet aliquip ipsum nostrud voluptate ex cupidatat. Voluptate enim ut laboris fugiat pariatur. Nisi elit exercitation consectetur incididunt quis sit exercitation elit. Occaecat nisi magna ut eu commodo elit do. Est in irure aute quis labore sit magna sunt voluptate est aliquip fugiat.\r\n"
+  },
+  {
+    "id": "61f7b8a6cd85478faa87fd8a",
+    "rating": 1,
+    "ratingCount": 5972,
+    "picture": "http://placehold.it/32x32",
+    "price": 369,
+    "openHours": [
+      {
+        "from": 11,
+        "to": 18
+      },
+      {
+        "from": 10,
+        "to": 20
+      },
+      {
+        "from": 9,
+        "to": 20
+      },
+      {
+        "from": 8,
+        "to": 20
+      },
+      {
+        "from": 9,
+        "to": 20
+      },
+      {
+        "from": 9,
+        "to": 17
+      },
+      {
+        "from": 11,
+        "to": 17
+      }
+    ],
+    "nextAvailableHour": "12.00",
+    "company": "Quonata",
+    "address": {
+      "city": "Steinhatchee",
+      "postalCode": "96-121",
+      "street": "Duryea Court 3105",
+      "time": 24
+    },
+    "url": "www.some-site.com",
+    "phone": "+48 (911) 474-3885",
+    "about": "Officia in veniam anim officia eiusmod laboris id. Lorem tempor do cupidatat Lorem eiusmod. Id culpa fugiat cupidatat nostrud reprehenderit culpa cupidatat officia mollit tempor eu reprehenderit adipisicing. Consectetur ex elit cillum sunt esse consectetur ullamco adipisicing sit in mollit. In in eu in incididunt reprehenderit magna. Ex elit qui nulla aliqua. Enim est ut ipsum irure adipisicing exercitation nulla.\r\n"
+  },
+  {
+    "id": "61f7b8a6a28a472e619563d1",
+    "rating": 2,
+    "ratingCount": 186,
+    "picture": "http://placehold.it/32x32",
+    "price": 198,
+    "openHours": [
+      {
+        "from": 9,
+        "to": 17
+      },
+      {
+        "from": 10,
+        "to": 17
+      },
+      {
+        "from": 10,
+        "to": 18
+      },
+      {
+        "from": 8,
+        "to": 20
+      },
+      {
+        "from": 11,
+        "to": 18
+      },
+      {
+        "from": 11,
+        "to": 20
+      },
+      {
+        "from": 8,
+        "to": 17
+      }
+    ],
+    "nextAvailableHour": "12.45",
+    "company": "Bittor",
+    "address": {
+      "city": "Leola",
+      "postalCode": "77-151",
+      "street": "Pierrepont Street 5401",
+      "time": 9
+    },
+    "url": "www.some-site.com",
+    "phone": "+48 (984) 405-2075",
+    "about": "Adipisicing eu elit nostrud irure. Mollit aliquip non anim enim aliqua ex ea qui quis irure minim. Voluptate quis voluptate ea ullamco culpa sit sunt nulla occaecat ad nostrud deserunt aliquip id.\r\n"
+  },
+  {
+    "id": "61f7b8a6c6ae6d836f6a8a42",
+    "rating": 2,
+    "ratingCount": 9060,
+    "picture": "http://placehold.it/32x32",
+    "price": 250,
+    "openHours": [
+      {
+        "from": 11,
+        "to": 20
+      },
+      {
+        "from": 11,
+        "to": 19
+      },
+      {
+        "from": 8,
+        "to": 20
+      },
+      {
+        "from": 11,
+        "to": 17
+      },
+      {
+        "from": 10,
+        "to": 18
+      },
+      {
+        "from": 9,
+        "to": 20
+      },
+      {
+        "from": 11,
+        "to": 20
+      }
+    ],
+    "nextAvailableHour": "12.15",
+    "company": "Scenty",
+    "address": {
+      "city": "Loyalhanna",
+      "postalCode": "43-963",
+      "street": "Lake Avenue 5284",
+      "time": 12
+    },
+    "url": "www.some-site.com",
+    "phone": "+48 (963) 519-3439",
+    "about": "Dolore eu consequat qui ad labore. Tempor duis ad ullamco occaecat consequat laboris qui quis. Enim magna eu sit est ea aute aute veniam aliqua reprehenderit minim aute consequat in.\r\n"
+  },
+  {
+    "id": "61f7b8a6ae522a4879446125",
+    "rating": 1,
+    "ratingCount": 8980,
+    "picture": "http://placehold.it/32x32",
+    "price": 579,
+    "openHours": [
+      {
+        "from": 8,
+        "to": 17
+      },
+      {
+        "from": 11,
+        "to": 20
+      },
+      {
+        "from": 9,
+        "to": 17
+      },
+      {
+        "from": 11,
+        "to": 19
+      },
+      {
+        "from": 10,
+        "to": 19
+      },
+      {
+        "from": 9,
+        "to": 18
+      },
+      {
+        "from": 9,
+        "to": 20
+      }
+    ],
+    "nextAvailableHour": "13.30",
+    "company": "Illumity",
+    "address": {
+      "city": "Gambrills",
+      "postalCode": "55-503",
+      "street": "Overbaugh Place 1208",
+      "time": 18
+    },
+    "url": "www.some-site.com",
+    "phone": "+48 (957) 563-3278",
+    "about": "Mollit ullamco laboris consectetur ea do Lorem adipisicing ipsum elit reprehenderit dolore consectetur consectetur. Proident irure excepteur voluptate anim eu magna amet aliqua Lorem commodo eu ad eu. Sit consequat enim est dolor elit ex culpa occaecat aliqua ut irure. Cillum fugiat commodo incididunt qui cillum consectetur. Fugiat consequat minim labore cillum sint anim id irure in mollit dolore do. Cillum nulla minim magna incididunt. Veniam adipisicing veniam reprehenderit dolore non anim proident elit dolor.\r\n"
+  },
+  {
+    "id": "61f7b8a6d1815e1151f5fdc9",
+    "rating": 4,
+    "ratingCount": 6308,
+    "picture": "http://placehold.it/32x32",
+    "price": 479,
+    "openHours": [
       {
         "from": 9,
         "to": 18
@@ -307,99 +447,303 @@
         "to": 19
       },
       {
-        "from": 9,
+        "from": 8,
+        "to": 20
+      },
+      {
+        "from": 8,
+        "to": 20
+      },
+      {
+        "from": 10,
         "to": 19
       },
       {
         "from": 10,
+        "to": 17
+      },
+      {
+        "from": 10,
         "to": 20
+      }
+    ],
+    "nextAvailableHour": "13.45",
+    "company": "Typhonica",
+    "address": {
+      "city": "Wacissa",
+      "postalCode": "77-490",
+      "street": "Russell Street 1155",
+      "time": 22
+    },
+    "url": "www.some-site.com",
+    "phone": "+48 (933) 435-3057",
+    "about": "Minim excepteur in elit est. Pariatur ad sint officia incididunt id. Culpa duis aliquip deserunt tempor irure reprehenderit nisi eiusmod occaecat nostrud Lorem culpa enim.\r\n"
+  },
+  {
+    "id": "61f7b8a606d310d8a51a830c",
+    "rating": 2,
+    "ratingCount": 6476,
+    "picture": "http://placehold.it/32x32",
+    "price": 396,
+    "openHours": [
+      {
+        "from": 11,
+        "to": 19
+      },
+      {
+        "from": 10,
+        "to": 18
+      },
+      {
+        "from": 9,
+        "to": 19
+      },
+      {
+        "from": 11,
+        "to": 20
+      },
+      {
+        "from": 9,
+        "to": 17
+      },
+      {
+        "from": 11,
+        "to": 18
+      },
+      {
+        "from": 8,
+        "to": 17
+      }
+    ],
+    "nextAvailableHour": "12.15",
+    "company": "Exozent",
+    "address": {
+      "city": "Chical",
+      "postalCode": "90-852",
+      "street": "Rutledge Street 4200",
+      "time": 35
+    },
+    "url": "www.some-site.com",
+    "phone": "+48 (812) 418-2931",
+    "about": "In commodo aliqua mollit sint sit adipisicing laborum Lorem consectetur. Consequat qui aliquip voluptate elit culpa. Lorem nisi id non pariatur enim consequat veniam voluptate non ex irure anim cupidatat.\r\n"
+  },
+  {
+    "id": "61f7b8a678b13db9d8a01cc3",
+    "rating": 1,
+    "ratingCount": 7411,
+    "picture": "http://placehold.it/32x32",
+    "price": 768,
+    "openHours": [
+      {
+        "from": 9,
+        "to": 18
+      },
+      {
+        "from": 8,
+        "to": 17
+      },
+      {
+        "from": 8,
+        "to": 20
+      },
+      {
+        "from": 11,
+        "to": 18
+      },
+      {
+        "from": 11,
+        "to": 19
+      },
+      {
+        "from": 9,
+        "to": 18
+      },
+      {
+        "from": 11,
+        "to": 19
+      }
+    ],
+    "nextAvailableHour": "13.00",
+    "company": "Franscene",
+    "address": {
+      "city": "Brambleton",
+      "postalCode": "8-473",
+      "street": "Brightwater Avenue 7686",
+      "time": 11
+    },
+    "url": "www.some-site.com",
+    "phone": "+48 (993) 544-2291",
+    "about": "Et ullamco veniam magna pariatur sit fugiat aute eu consequat commodo adipisicing culpa. Fugiat consequat mollit consectetur cupidatat. Ullamco officia esse eu amet.\r\n"
+  },
+  {
+    "id": "61f7b8a604f78d6c16f1717a",
+    "rating": 5,
+    "ratingCount": 4652,
+    "picture": "http://placehold.it/32x32",
+    "price": 307,
+    "openHours": [
+      {
+        "from": 9,
+        "to": 19
+      },
+      {
+        "from": 9,
+        "to": 17
+      },
+      {
+        "from": 11,
+        "to": 20
+      },
+      {
+        "from": 9,
+        "to": 18
       },
       {
         "from": 8,
         "to": 19
       },
       {
-        "from": 10,
+        "from": 11,
+        "to": 19
+      },
+      {
+        "from": 8,
+        "to": 19
+      }
+    ],
+    "nextAvailableHour": "13.00",
+    "company": "Quiltigen",
+    "address": {
+      "city": "Baker",
+      "postalCode": "58-782",
+      "street": "Sunnyside Avenue 8295",
+      "time": 23
+    },
+    "url": "www.some-site.com",
+    "phone": "+48 (866) 520-2549",
+    "about": "Ad exercitation pariatur dolore pariatur veniam minim magna aliquip ad reprehenderit. Velit aliquip ex reprehenderit ea elit quis. Id est fugiat reprehenderit exercitation nostrud ullamco anim laboris mollit magna est. Laboris aute velit pariatur reprehenderit ut labore in tempor sint mollit id officia.\r\n"
+  },
+  {
+    "id": "61f7b8a68694a0d0894a1670",
+    "rating": 1,
+    "ratingCount": 5014,
+    "picture": "http://placehold.it/32x32",
+    "price": 867,
+    "openHours": [
+      {
+        "from": 9,
+        "to": 18
+      },
+      {
+        "from": 9,
+        "to": 18
+      },
+      {
+        "from": 8,
+        "to": 20
+      },
+      {
+        "from": 11,
+        "to": 17
+      },
+      {
+        "from": 9,
+        "to": 17
+      },
+      {
+        "from": 11,
+        "to": 18
+      },
+      {
+        "from": 11,
+        "to": 17
+      }
+    ],
+    "nextAvailableHour": "12.30",
+    "company": "Geekko",
+    "address": {
+      "city": "Denio",
+      "postalCode": "78-305",
+      "street": "Battery Avenue 3485",
+      "time": 16
+    },
+    "url": "www.some-site.com",
+    "phone": "+48 (888) 427-3679",
+    "about": "Laborum ad Lorem eiusmod cupidatat laborum reprehenderit ex officia veniam. Enim sit ipsum ex labore in enim occaecat. Culpa sint nulla Lorem id proident do. Pariatur officia cupidatat velit tempor non qui amet veniam anim anim nostrud aliquip aliqua. Irure occaecat quis ex cillum elit. Quis duis ipsum ea consectetur. Ea dolor nisi consequat do nisi.\r\n"
+  },
+  {
+    "id": "61f7b8a69a98c7ab6046ddf8",
+    "rating": 4,
+    "ratingCount": 2542,
+    "picture": "http://placehold.it/32x32",
+    "price": 167,
+    "openHours": [
+      {
+        "from": 8,
+        "to": 18
+      },
+      {
+        "from": 11,
+        "to": 20
+      },
+      {
+        "from": 11,
+        "to": 20
+      },
+      {
+        "from": 9,
+        "to": 19
+      },
+      {
+        "from": 9,
+        "to": 19
+      },
+      {
+        "from": 8,
+        "to": 19
+      },
+      {
+        "from": 9,
         "to": 18
       }
     ],
     "nextAvailableHour": "12.30",
-    "company": "Techtrix",
+    "company": "Premiant",
     "address": {
-      "city": "Bradenville",
-      "postalCode": "33-914",
-      "street": "Hegeman Avenue 7269",
-      "time": 9
+      "city": "Cataract",
+      "postalCode": "33-944",
+      "street": "Clymer Street 8146",
+      "time": 7
     },
     "url": "www.some-site.com",
-    "phone": "+48 (908) 447-3396",
-    "about": "Laborum eu qui consequat magna laboris adipisicing irure aliquip ex irure duis labore nostrud culpa. Fugiat ad qui occaecat sunt ullamco. Do enim dolore et deserunt eu esse aute voluptate et anim id. Consequat voluptate et esse Lorem.\r\n"
+    "phone": "+48 (873) 435-2948",
+    "about": "Ea dolor amet commodo culpa laborum cillum in sunt. Dolore fugiat amet irure fugiat quis eiusmod eiusmod elit reprehenderit laboris. Veniam id cillum incididunt qui nisi aute do minim sunt pariatur et deserunt incididunt ut. Irure fugiat ut et incididunt id nisi sit. Ut cillum ipsum labore ullamco et exercitation excepteur labore.\r\n"
   },
   {
-    "id": "61f71d0c36059d806b9c3642",
-    "rating": 5,
-    "ratingCount": 8484,
-    "picture": "http://placehold.it/32x32",
-    "price": 402,
-    "openHours": [
-      {
-        "from": 10,
-        "to": 18
-      },
-      {
-        "from": 11,
-        "to": 19
-      },
-      {
-        "from": 10,
-        "to": 18
-      },
-      {
-        "from": 10,
-        "to": 17
-      },
-      {
-        "from": 10,
-        "to": 20
-      },
-      {
-        "from": 11,
-        "to": 20
-      },
-      {
-        "from": 11,
-        "to": 20
-      }
-    ],
-    "nextAvailableHour": "13.30",
-    "company": "Menbrain",
-    "address": {
-      "city": "Rote",
-      "postalCode": "49-789",
-      "street": "Celeste Court 2863",
-      "time": 29
-    },
-    "url": "www.some-site.com",
-    "phone": "+48 (959) 485-3394",
-    "about": "Laborum sit in nostrud occaecat Lorem minim Lorem sint incididunt quis. Consequat excepteur excepteur sunt minim enim quis minim sint pariatur cillum. In exercitation proident esse consequat aliquip quis reprehenderit ullamco et dolore. Aliqua dolor do occaecat voluptate non officia aute non nulla. Aliqua consequat aute aliquip officia irure anim eiusmod elit.\r\n"
-  },
-  {
-    "id": "61f71d0ce902d25afe893d70",
+    "id": "61f7b8a6f495e454acda5948",
     "rating": 2,
-    "ratingCount": 4774,
+    "ratingCount": 4422,
     "picture": "http://placehold.it/32x32",
-    "price": 313,
+    "price": 769,
     "openHours": [
       {
+        "from": 11,
+        "to": 20
+      },
+      {
         "from": 8,
-        "to": 17
+        "to": 18
       },
       {
         "from": 11,
         "to": 18
       },
       {
-        "from": 10,
+        "from": 8,
+        "to": 19
+      },
+      {
+        "from": 8,
         "to": 19
       },
       {
@@ -408,96 +752,76 @@
       },
       {
         "from": 8,
-        "to": 20
-      },
-      {
-        "from": 8,
-        "to": 17
-      },
-      {
-        "from": 10,
-        "to": 18
+        "to": 19
       }
     ],
-    "nextAvailableHour": "13.30",
-    "company": "Eclipsent",
+    "nextAvailableHour": "12.45",
+    "company": "Bunga",
     "address": {
-      "city": "Stouchsburg",
-      "postalCode": "88-409",
-      "street": "Gem Street 6664",
-      "time": 32
+      "city": "Stockdale",
+      "postalCode": "35-684",
+      "street": "Jerome Street 2617",
+      "time": 20
     },
     "url": "www.some-site.com",
-    "phone": "+48 (957) 445-3786",
-    "about": "Id culpa ad pariatur laborum duis id Lorem excepteur nisi eiusmod ut. Eiusmod Lorem consequat adipisicing commodo consectetur ex elit ullamco nisi adipisicing ut pariatur elit. Laboris nostrud irure fugiat sunt ad sunt minim ex dolor mollit deserunt aliqua incididunt reprehenderit. Excepteur laborum duis ipsum aliquip ad mollit laborum. Enim velit commodo ea magna. Aliqua veniam amet et sit proident in enim dolor officia commodo eu commodo dolore fugiat.\r\n"
+    "phone": "+48 (999) 600-3453",
+    "about": "Ex ipsum commodo ullamco dolore ullamco eiusmod quis. Aute quis mollit ex reprehenderit aute culpa dolore dolor enim. Ex ipsum quis id incididunt eu ullamco dolor occaecat ut. Cupidatat id commodo culpa aliqua et officia labore eu non. Pariatur fugiat dolor sit eiusmod irure adipisicing ipsum amet.\r\n"
   },
   {
-    "id": "61f71d0c9bec5e6a9bb274bd",
+    "id": "61f7b8a6860d944d2fc55933",
     "rating": 4,
-    "ratingCount": 550,
+    "ratingCount": 6994,
     "picture": "http://placehold.it/32x32",
-    "price": 201,
+    "price": 888,
     "openHours": [
       {
         "from": 8,
         "to": 18
+      },
+      {
+        "from": 10,
+        "to": 19
       },
       {
         "from": 9,
-        "to": 18
-      },
-      {
-        "from": 8,
         "to": 20
       },
       {
-        "from": 11,
-        "to": 20
+        "from": 9,
+        "to": 17
       },
       {
-        "from": 11,
-        "to": 18
+        "from": 9,
+        "to": 17
       },
-      {
-        "from": 11,
-        "to": 19
-      },
-      {
-        "from": 8,
-        "to": 19
-      }
-    ],
-    "nextAvailableHour": "13.45",
-    "company": "Zilch",
-    "address": {
-      "city": "Alden",
-      "postalCode": "13-523",
-      "street": "Kings Place 3852",
-      "time": 17
-    },
-    "url": "www.some-site.com",
-    "phone": "+48 (838) 527-2015",
-    "about": "Qui anim sunt cillum laborum labore ex amet nulla tempor tempor. Nostrud non ipsum veniam dolore amet dolor esse. Irure incididunt cupidatat ut amet minim nostrud fugiat magna officia. Irure in in veniam est consequat amet ut aliqua proident nulla nostrud labore eiusmod sunt.\r\n"
-  },
-  {
-    "id": "61f71d0c2a58a395f09b1119",
-    "rating": 3,
-    "ratingCount": 9572,
-    "picture": "http://placehold.it/32x32",
-    "price": 329,
-    "openHours": [
       {
         "from": 8,
         "to": 17
       },
       {
         "from": 8,
-        "to": 19
-      },
-      {
-        "from": 11,
-        "to": 19
-      },
+        "to": 18
+      }
+    ],
+    "nextAvailableHour": "13.00",
+    "company": "Ozean",
+    "address": {
+      "city": "Kapowsin",
+      "postalCode": "39-840",
+      "street": "Cumberland Walk 8115",
+      "time": 6
+    },
+    "url": "www.some-site.com",
+    "phone": "+48 (968) 412-2172",
+    "about": "Aliqua dolore ea sit quis. Ea deserunt pariatur officia in irure ea. Deserunt sunt tempor nostrud adipisicing qui. Ipsum eiusmod deserunt nostrud labore culpa in duis magna amet magna minim ea incididunt. Minim occaecat ex irure tempor esse deserunt nulla sint ut quis minim deserunt amet. Qui consequat eu nulla laboris laboris dolor in aliquip ad. Minim irure dolor eiusmod est aute minim cillum amet culpa.\r\n"
+  },
+  {
+    "id": "61f7b8a63b17666be13c8013",
+    "rating": 4,
+    "ratingCount": 3070,
+    "picture": "http://placehold.it/32x32",
+    "price": 535,
+    "openHours": [
       {
         "from": 8,
         "to": 20
@@ -507,81 +831,145 @@
         "to": 18
       },
       {
-        "from": 8,
+        "from": 10,
         "to": 18
       },
       {
         "from": 11,
-        "to": 20
+        "to": 19
+      },
+      {
+        "from": 8,
+        "to": 19
+      },
+      {
+        "from": 11,
+        "to": 19
+      },
+      {
+        "from": 11,
+        "to": 18
       }
     ],
-    "nextAvailableHour": "13.45",
-    "company": "Snips",
+    "nextAvailableHour": "13.00",
+    "company": "Blurrybus",
     "address": {
-      "city": "Germanton",
-      "postalCode": "66-349",
-      "street": "Coles Street 3541",
-      "time": 33
+      "city": "Venice",
+      "postalCode": "91-540",
+      "street": "River Street 7073",
+      "time": 27
     },
     "url": "www.some-site.com",
-    "phone": "+48 (948) 424-2385",
-    "about": "Tempor ea commodo sint ad occaecat. Adipisicing nisi ullamco pariatur in. Consectetur occaecat voluptate dolor duis aliqua in sit labore laborum. Exercitation ex non id eu ad incididunt ut adipisicing velit eu commodo reprehenderit ut. Dolore nisi eiusmod voluptate sint ad incididunt. Consectetur occaecat officia sunt voluptate occaecat ad. Sit dolore in ea dolor.\r\n"
+    "phone": "+48 (866) 473-3821",
+    "about": "Est pariatur anim voluptate sit cupidatat sit est. Incididunt duis nisi proident occaecat cupidatat quis nostrud pariatur Lorem irure. Eu excepteur amet officia consectetur exercitation quis nulla consectetur. Nostrud pariatur consectetur dolore do labore labore exercitation cillum amet enim esse laborum eiusmod eu. Aliqua non duis deserunt aute ad amet reprehenderit consectetur qui commodo officia nostrud.\r\n"
   },
   {
-    "id": "61f71d0cfe53d7155d8b3344",
-    "rating": 1,
-    "ratingCount": 7250,
+    "id": "61f7b8a6f8c5fbf9dc193baa",
+    "rating": 5,
+    "ratingCount": 3796,
     "picture": "http://placehold.it/32x32",
     "price": 103,
     "openHours": [
       {
         "from": 9,
-        "to": 18
-      },
-      {
-        "from": 9,
-        "to": 19
+        "to": 17
       },
       {
         "from": 11,
-        "to": 20
+        "to": 18
       },
       {
-        "from": 10,
-        "to": 19
-      },
-      {
-        "from": 10,
-        "to": 20
+        "from": 11,
+        "to": 17
       },
       {
         "from": 8,
         "to": 18
       },
       {
+        "from": 11,
+        "to": 18
+      },
+      {
+        "from": 10,
+        "to": 17
+      },
+      {
+        "from": 8,
+        "to": 19
+      }
+    ],
+    "nextAvailableHour": "12.30",
+    "company": "Senmei",
+    "address": {
+      "city": "Avalon",
+      "postalCode": "66-188",
+      "street": "Lewis Place 6645",
+      "time": 22
+    },
+    "url": "www.some-site.com",
+    "phone": "+48 (984) 516-3915",
+    "about": "Irure culpa incididunt Lorem nisi est in Lorem mollit reprehenderit ut exercitation exercitation consequat incididunt. Adipisicing eiusmod dolore occaecat non cillum est commodo laborum nostrud voluptate amet. Et ad nulla magna consectetur non ut eiusmod et do dolor.\r\n"
+  },
+  {
+    "id": "61f7b8a663f6f1080c7f226a",
+    "rating": 1,
+    "ratingCount": 2608,
+    "picture": "http://placehold.it/32x32",
+    "price": 341,
+    "openHours": [
+      {
         "from": 9,
         "to": 18
+      },
+      {
+        "from": 8,
+        "to": 18
+      },
+      {
+        "from": 10,
+        "to": 19
+      },
+      {
+        "from": 9,
+        "to": 18
+      },
+      {
+        "from": 11,
+        "to": 20
+      },
+      {
+        "from": 8,
+        "to": 20
+      },
+      {
+        "from": 10,
+        "to": 17
       }
     ],
     "nextAvailableHour": "12.00",
-    "company": "Immunics",
+    "company": "Signidyne",
     "address": {
-      "city": "Aberdeen",
-      "postalCode": "62-365",
-      "street": "Windsor Place 8548",
-      "time": 11
+      "city": "Bowie",
+      "postalCode": "3-324",
+      "street": "Clove Road 1085",
+      "time": 21
     },
     "url": "www.some-site.com",
-    "phone": "+48 (842) 442-2166",
-    "about": "Officia dolor ea esse amet dolor in. Elit duis non qui fugiat minim officia adipisicing consequat nisi magna aute mollit. Reprehenderit velit dolor non sunt adipisicing elit dolor. Anim voluptate quis elit magna laboris aliqua quis.\r\n"
+    "phone": "+48 (973) 489-3912",
+    "about": "Anim incididunt cupidatat Lorem voluptate aliqua sit reprehenderit id excepteur exercitation id. Excepteur aute do ea laborum esse culpa elit adipisicing ullamco. Eiusmod quis excepteur enim aute dolore culpa Lorem magna consectetur culpa cupidatat eiusmod velit sunt. Labore qui incididunt nostrud ipsum sint exercitation minim id eiusmod do culpa. Voluptate culpa sint cillum ea quis labore laborum anim duis veniam duis voluptate occaecat. Qui veniam voluptate mollit nisi sit.\r\n"
   },
   {
-    "id": "61f71d0c824ec7f2e459344c",
-    "rating": 1,
-    "ratingCount": 5434,
+    "id": "61f7b8a6b308d075dcf4ad93",
+    "rating": 4,
+    "ratingCount": 2277,
     "picture": "http://placehold.it/32x32",
-    "price": 407,
+    "price": 590,
     "openHours": [
+      {
+        "from": 11,
+        "to": 17
+      },
       {
         "from": 10,
         "to": 19
@@ -591,84 +979,176 @@
         "to": 17
       },
       {
-        "from": 8,
+        "from": 10,
         "to": 19
       },
       {
         "from": 10,
-        "to": 20
-      },
-      {
-        "from": 8,
-        "to": 17
+        "to": 19
       },
       {
         "from": 10,
-        "to": 18
+        "to": 17
       },
       {
-        "from": 9,
+        "from": 11,
         "to": 18
       }
     ],
-    "nextAvailableHour": "12.45",
-    "company": "Soprano",
+    "nextAvailableHour": "13.00",
+    "company": "Daisu",
     "address": {
-      "city": "Brady",
-      "postalCode": "80-682",
-      "street": "Auburn Place 9929",
-      "time": 14
+      "city": "Walker",
+      "postalCode": "8-456",
+      "street": "Highland Boulevard 1297",
+      "time": 16
     },
     "url": "www.some-site.com",
-    "phone": "+48 (998) 585-3854",
-    "about": "Adipisicing ad officia ipsum Lorem excepteur. Sint incididunt nisi eu enim in commodo do nostrud anim reprehenderit eu. Voluptate eu Lorem labore enim proident incididunt enim ex eu.\r\n"
+    "phone": "+48 (902) 587-2525",
+    "about": "Adipisicing consequat minim excepteur sit nulla sint officia ad. Commodo consequat aliquip ipsum veniam. Excepteur officia ipsum cupidatat ea cupidatat sint reprehenderit deserunt esse pariatur aliquip Lorem. Laboris anim amet ad non nisi consequat dolor nisi nulla magna excepteur reprehenderit labore.\r\n"
   },
   {
-    "id": "61f71d0cbef56fbbe76b8240",
-    "rating": 1,
-    "ratingCount": 8054,
+    "id": "61f7b8a68a6870813443ade5",
+    "rating": 5,
+    "ratingCount": 370,
     "picture": "http://placehold.it/32x32",
-    "price": 205,
+    "price": 262,
     "openHours": [
+      {
+        "from": 9,
+        "to": 17
+      },
+      {
+        "from": 8,
+        "to": 17
+      },
+      {
+        "from": 9,
+        "to": 20
+      },
       {
         "from": 11,
         "to": 17
       },
       {
-        "from": 9,
+        "from": 11,
+        "to": 18
+      },
+      {
+        "from": 8,
         "to": 17
+      },
+      {
+        "from": 10,
+        "to": 18
+      }
+    ],
+    "nextAvailableHour": "12.15",
+    "company": "Megall",
+    "address": {
+      "city": "Gibbsville",
+      "postalCode": "10-385",
+      "street": "Llama Court 9170",
+      "time": 36
+    },
+    "url": "www.some-site.com",
+    "phone": "+48 (929) 410-2463",
+    "about": "Amet nostrud sit duis aliqua qui dolor. Irure in excepteur quis ut occaecat nisi adipisicing sunt. Exercitation dolore incididunt laboris nisi velit ex ullamco do ea laborum. Proident adipisicing ex occaecat fugiat id.\r\n"
+  },
+  {
+    "id": "61f7b8a6b5546b6b42c684d9",
+    "rating": 4,
+    "ratingCount": 7502,
+    "picture": "http://placehold.it/32x32",
+    "price": 497,
+    "openHours": [
+      {
+        "from": 11,
+        "to": 20
+      },
+      {
+        "from": 11,
+        "to": 20
+      },
+      {
+        "from": 9,
+        "to": 19
+      },
+      {
+        "from": 9,
+        "to": 19
+      },
+      {
+        "from": 8,
+        "to": 17
+      },
+      {
+        "from": 11,
+        "to": 18
       },
       {
         "from": 10,
         "to": 20
-      },
-      {
-        "from": 8,
-        "to": 19
-      },
-      {
-        "from": 9,
-        "to": 19
-      },
-      {
-        "from": 11,
-        "to": 17
-      },
-      {
-        "from": 10,
-        "to": 19
       }
     ],
     "nextAvailableHour": "13.30",
-    "company": "Pharmex",
+    "company": "Datacator",
     "address": {
-      "city": "Hampstead",
-      "postalCode": "10-885",
-      "street": "Oriental Court 5361",
-      "time": 39
+      "city": "Sunwest",
+      "postalCode": "58-337",
+      "street": "Newport Street 2775",
+      "time": 21
     },
     "url": "www.some-site.com",
-    "phone": "+48 (993) 455-3477",
-    "about": "Exercitation officia labore commodo consequat amet in tempor sunt id laborum reprehenderit. Aliquip esse adipisicing cillum cillum in adipisicing do exercitation irure. Aliquip ea sunt aliquip commodo aliquip non irure occaecat tempor cillum ad voluptate. Sit incididunt velit amet ut est anim quis sint duis pariatur nulla dolor culpa nulla.\r\n"
+    "phone": "+48 (836) 514-3004",
+    "about": "Elit minim nostrud qui in incididunt et sunt sunt ut ut aliquip eiusmod. Excepteur ad sint officia excepteur. Esse cillum ea occaecat adipisicing aliquip et in culpa proident.\r\n"
+  },
+  {
+    "id": "61f7b8a65192275a94115c3f",
+    "rating": 2,
+    "ratingCount": 6389,
+    "picture": "http://placehold.it/32x32",
+    "price": 746,
+    "openHours": [
+      {
+        "from": 10,
+        "to": 19
+      },
+      {
+        "from": 9,
+        "to": 18
+      },
+      {
+        "from": 11,
+        "to": 19
+      },
+      {
+        "from": 11,
+        "to": 20
+      },
+      {
+        "from": 8,
+        "to": 18
+      },
+      {
+        "from": 10,
+        "to": 20
+      },
+      {
+        "from": 8,
+        "to": 19
+      }
+    ],
+    "nextAvailableHour": "13.00",
+    "company": "Letpro",
+    "address": {
+      "city": "Biddle",
+      "postalCode": "12-701",
+      "street": "Howard Place 5683",
+      "time": 25
+    },
+    "url": "www.some-site.com",
+    "phone": "+48 (818) 459-3597",
+    "about": "Dolore eiusmod pariatur nostrud eiusmod ea voluptate anim. Occaecat mollit aute duis ullamco adipisicing irure in. Aliquip minim consectetur aliqua labore excepteur. Amet ullamco cillum velit sint adipisicing. Aliquip Lorem eu proident non commodo do eiusmod nulla do aliqua.\r\n"
   }
 ]

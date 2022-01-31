@@ -1,4 +1,5 @@
 import styles from "./salon-row.module.css";
+import utils from "../styles/utils.module.css";
 import Link from "next/link";
 import Arrow from "../images/arrow.svg";
 import classNames from "classnames";
@@ -17,7 +18,7 @@ export default function SalonRow({ salon }) {
 
   return (
     <Link href={`/salons/${id}`}>
-      <li className={styles.row}>
+      <li className={classNames(styles.row, utils.marginRow)}>
         <div className={classNames(styles.nextHour, styles.fontNormal)}>
           {nextAvailableHour}
         </div>

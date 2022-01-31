@@ -1,5 +1,6 @@
 .row {
-  padding: 11px 0px 11px;
+  padding-top: 11px;
+  padding-bottom: 11px;
   border-bottom: solid 0.5px #eee;
   display: grid;
   grid-template-columns: 0.5fr 1fr 0.5fr 0.2fr;
@@ -21,6 +22,7 @@
   grid-area: company;
   font-weight: 300;
   font-size: 20px;
+  font-family: MillerBanner, sans-serif;
 }
 .price {
   grid-area: price;
@@ -53,12 +55,10 @@
 }
 
 .fontLight {
-  font-family: Helvetica, Arial, sans-serif;
   font-weight: 300;
 }
 
 .fontNormal {
-  font-family: Helvetica, Arial, sans-serif;
   color: #202020;
   font-weight: normal;
 }
