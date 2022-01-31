@@ -1,0 +1,13 @@
+.star {
+  vertical-align: middle;
+  margin-right: 3px;
+}
+.on {
+  fill: #b69f58;
+}
+.off {
+  fill: transparent;
+}
+.count {
+  margin-left: 5px;
+}

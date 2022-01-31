@@ -2,9 +2,18 @@ import styles from "./salon-row.module.css";
 import Link from "next/link";
 import Arrow from "../images/arrow.svg";
 import classNames from "classnames";
+import Stars from "./stars";
 
 export default function SalonRow({ salon }) {
-  const { company, id, rating, nextAvailableHour, address, price } = salon;
+  const {
+    company,
+    id,
+    rating,
+    nextAvailableHour,
+    address,
+    price,
+    ratingCount,
+  } = salon;
 
   return (
     <Link href={`/salons/${id}`}>
@@ -17,7 +26,7 @@ export default function SalonRow({ salon }) {
           {`${price} kr`}
         </div>
         <div className={classNames(styles.rating, styles.fontLight)}>
-          {rating}
+          <Stars rating={rating} count={ratingCount} />
         </div>
         <div className={classNames(styles.tripTime, styles.fontLight)}>
           {`${address.time} min`}
