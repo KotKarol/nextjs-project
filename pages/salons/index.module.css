@@ -1,0 +1,39 @@
+.site {
+  display: flex;
+  flex-direction: column;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.title {
+  font-size: 22px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.13px;
+}
+
+.list {
+  justify-self: start;
+}
+
+.back {
+  color: black;
+}
+
+.filter {
+}
+
+.filterRow {
+  padding: 15px 0px;
+}
+
+.bottomBorder {
+  border-bottom: solid 0.5px #b69f58;
+}

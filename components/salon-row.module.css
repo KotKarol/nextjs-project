@@ -1,0 +1,62 @@
+.row {
+  padding: 11px 0px 11px;
+  border-bottom: solid 0.5px #eee;
+  display: grid;
+  grid-template-columns: 0.5fr 1fr 0.5fr 0.2fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  gap: 0px 0px;
+  grid-auto-flow: row;
+  grid-template-areas:
+    "next-hour company price ."
+    ". rating trip-time arrow"
+    ". address . .";
+  align-items: center;
+}
+
+.nextHour {
+  grid-area: next-hour;
+  font-size: 15px;
+}
+.company {
+  grid-area: company;
+  font-weight: 300;
+  font-size: 20px;
+}
+.price {
+  grid-area: price;
+  font-size: 15px;
+  text-align: right;
+}
+.rating {
+  grid-area: rating;
+  font-size: 11px;
+}
+.tripTime {
+  grid-area: trip-time;
+  font-size: 13px;
+  text-align: right;
+}
+
+.arrow {
+  grid-area: arrow;
+  justify-self: end;
+  transform: rotateY(180deg);
+}
+
+.address {
+  grid-area: address;
+  font-size: 15px;
+  text-align: left;
+}
+
+.fontLight {
+  font-family: Helvetica, Arial, sans-serif;
+  color: #666;
+  font-weight: 300;
+}
+
+.fontNormal {
+  font-family: Helvetica, Arial, sans-serif;
+  color: #202020;
+  font-weight: normal;
+}
