@@ -6,7 +6,6 @@ export default function Home() {
     <div>
       <Head>
         <title>Salons App</title>
-        <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
