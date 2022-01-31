@@ -30,6 +30,8 @@ const filters = [
 export default function Salons({ salonsData }) {
   const [filteredSalons, setFilteredSalons] = useState(salonsData);
 
+  // I know you can for example generate pages via querystring, and have those filtered as a static pages.
+  // I will try to do that if i will have some time left :)
   function filter({ from, to }) {
     const data = salonsData.filter((salon) => {
       if (Number.isInteger(from) && salon.price < from) {
@@ -49,36 +51,35 @@ export default function Salons({ salonsData }) {
       <Head>
         <title>Salons list</title>
       </Head>
-      <div className={classNames(styles.site)}>
-        <div
-          className={classNames(
-            styles.header,
-            styles.bottomBorder,
-            utils.paddingRow
-          )}
-        >
-          <Arrow className={styles.back} width="11" height="19" />
-          <h1 className={styles.title}>Hår</h1>
-          <Filter className={styles.filter} />
-        </div>
-        <Filters
-          className={classNames(
-            styles.filterRow,
-            styles.bottomBorder,
-            utils.paddingRow
-          )}
-          filters={filters}
-          refine={(e) => {
-            filter(e);
-          }}
-        />
-        <div className={styles.list}>
-          <ul>
-            {filteredSalons.map((salon) => (
-              <SalonRow salon={salon} key={salon.id} />
-            ))}
-          </ul>
-        </div>
+
+      <div
+        className={classNames(
+          styles.header,
+          styles.bottomBorder,
+          utils.paddingRow
+        )}
+      >
+        <Arrow className={styles.back} width="11" height="19" />
+        <h1 className={styles.title}>Hår</h1>
+        <Filter className={styles.filter} />
+      </div>
+      <Filters
+        className={classNames(
+          styles.filterRow,
+          styles.bottomBorder,
+          utils.paddingRow
+        )}
+        filters={filters}
+        refine={(e) => {
+          filter(e);
+        }}
+      />
+      <div className={styles.list}>
+        <ul>
+          {filteredSalons.map((salon) => (
+            <SalonRow salon={salon} key={salon.id} />
+          ))}
+        </ul>
       </div>
     </Layout>
   );

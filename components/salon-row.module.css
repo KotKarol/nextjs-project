@@ -33,6 +33,8 @@
   grid-area: rating;
   font-size: 11px;
   color: #656565;
+  display: inline-flex;
+  align-items: center;
 }
 .tripTime {
   grid-area: trip-time;

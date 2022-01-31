@@ -27,7 +27,7 @@ export default function SalonRow({ salon }) {
           {`${price} kr`}
         </div>
         <div className={classNames(styles.rating, styles.fontLight)}>
-          <Stars rating={rating} count={ratingCount} />
+          <Stars rating={rating} count={ratingCount} height={9} width={9} />
         </div>
         <div className={classNames(styles.tripTime, styles.fontLight)}>
           {`${address.time} min`}
